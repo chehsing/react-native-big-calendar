@@ -1,11 +1,11 @@
 {
-  "name": "react-native-big-calendar",
-  "version": "4.18.5",
+  "name": "@chehsing/react-native-big-calendar",
+  "version": "4.18.6",
   "main": "build/index.js",
   "jsnext:main": "build/index.es.js",
   "module": "build/index.es.js",
   "types": "build/index.d.ts",
-  "repository": "git@github.com:acro5piano/react-native-big-calendar",
+  "repository": "git@github.com:chehsing/react-native-big-calendar",
   "author": "gosho-kazuya <ketsume0211@gmail.com>",
   "license": "MIT",
   "scripts": {
